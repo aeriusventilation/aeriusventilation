@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aerius.se">aerius.se</a> &middot; 010-300 16 00
+  <a href="https://aerius.se">aerius.se</a>
 </p>
 
 ---
