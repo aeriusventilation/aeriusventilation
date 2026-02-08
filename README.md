@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aventilation.se">aventilation.se</a> &middot; <a href="https://aerius.se">aerius.se</a> &middot; 010-300 16 00
+  <a href="https://aerius.se">aerius.se</a> &middot; 010-300 16 00
 </p>
 
 ---
@@ -30,15 +30,13 @@ Everything is handled in-house — no subcontractors. From first consultation to
 | **Radon** | Measurement, remediation & radon extraction systems |
 | **Commercial** | Maintenance contracts, project planning, kitchen duct cleaning |
 
-Browse all services at **[aventilation.se/tjanster](https://aventilation.se/tjanster)**
+Browse all services at **[aerius.se](https://aerius.se)**
 
 ---
 
 ### Coverage
 
 Operating across **12 counties and 194+ cities** in Sweden, primarily in Stockholm, Uppsala, Västra Götaland, Värmland, Örebro, Gävleborg, and surrounding regions.
-
-See where we work: **[aventilation.se/har-arbetar-vi](https://aventilation.se/har-arbetar-vi)**
 
 ---
 
@@ -52,5 +50,5 @@ See where we work: **[aventilation.se/har-arbetar-vi](https://aventilation.se/ha
 ---
 
 <p align="center">
-  <a href="https://aventilation.se/kontakt"><strong>Get in touch &rarr;</strong></a>
+  <a href="https://aerius.se"><strong>Get in touch &rarr;</strong></a>
 </p>
