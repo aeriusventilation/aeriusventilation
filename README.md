@@ -13,9 +13,13 @@
 
 ### About Us
 
-Aerius Ventilation is a full-service ventilation company founded and led by **Tony Hanna, CEO & Board Chair**. We combine hands-on craftsmanship with a digital-first approach to deliver efficient, transparent solutions for homes, businesses, and property managers.
+We're Aerius Ventilation. A ventilation company in Stockholm, Sweden. About 30 employees. We clean ductwork, install FTX heat recovery systems, replace old units, remediate radon and service ventilation in homes and apartment buildings. Founded in 2015 by Tony Hanna. Thousands of jobs done since.
 
-Everything is handled in-house — no subcontractors. From first consultation to completed installation and ongoing maintenance, our team of engineers, project managers, and technicians manage the entire process.
+We're investing heavily in digitizing the business right now. 50+ websites running in a single monorepo, an online price calculator where customers get instant estimates, new CRM, digital quoting and scheduling. Built with Next.js, TypeScript and Turborepo.
+
+We sponsor open source projects we use and appreciate. Feels right to give back to the community building the tools we rely on.
+
+We're ventilation technicians who happen to love building things with code.
 
 ---
 
