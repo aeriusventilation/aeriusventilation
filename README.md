@@ -15,7 +15,7 @@
 
 We're Aerius Ventilation. A ventilation company based in Stockholm, Sweden. About 35 employees. We install FTX heat recovery systems, replace old ventilation units, remediate radon and make sure indoor air quality is good for Swedish homes and businesses. Founded in 2015 by me, Tony Hanna. Tens of thousands of jobs done since.
 
-Right now we're investing heavily in digitizing the business. 50+ websites running in a single monorepo, an online price calculator where customers get instant estimates, new CRM, digital quoting and scheduling. Built with frameworks we're honestly not experts in. I'm very interested in programming and I have a friend who helps me get things done so we can work more efficiently, both internally and externally.
+Right now we're investing heavily in digitizing the business. We released an online price calculator where customers get instant estimates, new CRM, digital quoting and scheduling. I'm very interested in programming and I have a friend who helps me get things done so we can work more efficiently, both internally and externally.
 
 We sponsor a lot of projects we use and appreciate. Feels right to give back to the community building the tools we rely on.
 
